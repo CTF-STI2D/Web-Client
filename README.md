@@ -15,7 +15,7 @@ Ensuite, trouver le code regroupant le bouton et la zone de texte, on peut const
 3ème étape, modifier la valeur des deux lignes pour retirer le `disabled` : 
 <img src="https://media.discordapp.net/attachments/948276509452406805/1063211926408147084/3.png" alt="3">
 
-Enfin, vous pouvez remplir la zone de texte avec ce que vous voulez et valider :
+Enfin, vous pouvez remplir la zone de texte avec ce que vous voulez et valider :\n
 <img src="https://media.discordapp.net/attachments/948276509452406805/1063211926802415656/4.png" alt="4">
 
 Voila, vous avez terminer, maintenant copier la clé et rendez vous au challenge suivant ^^
