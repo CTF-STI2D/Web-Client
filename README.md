@@ -4,8 +4,6 @@ Web - Client solution du site www.root-me.org
 
 # Réponse :
 
-Foobar is a Python library for dealing with word pluralization.
-
 Premièrement, faite un clique droit n'importe où sur le site :
 <img src="https://media.discordapp.net/attachments/948276509452406805/1063211925569290312/1.png" alt="1">
 
